@@ -30,3 +30,13 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [Deep Dive on AWS Fargate: Building Serverless Containers at Scale](https://www.aws.training/Details/Video?id=26855)
 - [ ] [Deep Dive on Container Security](https://www.aws.training/Details/Video?id=26841)
 - [ ] [Deep Dive Into Container Networking - AWS Online Tech Talks](https://www.youtube.com/watch?v=8E9PMT9sp9M)
+
+### Step 3.1: Learn about Elastic Container Service (Amazon ECS)
+
+- [ ] [Amazon Elastic Container Service (ECS) Primer](https://www.aws.training/Details/eLearning?id=30260)
+- [ ] [ECS Workshop](http://ecsworkshop.com/)
+- [ ] [Best practices for CI/CD using AWS Fargate and Amazon ECS](https://www.youtube.com/watch?v=7FVK0i9edyg)
+- [ ] [Docker on Amazon ECS Fargate Using CloudFormation](https://www.youtube.com/watch?v=Gr2yTSsVSqg)
+- [ ] [Building CI/CD Pipelines with Jenkins on Amazon ECS](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-on-ecs-workshop/public/en/index.html)
+- [ ] [Building and Deploying Containers Using Amazon Elastic Container Service](https://run.qwiklabs.com/focuses/14236?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7572446)
+- [ ] [AWS Fargate under the hood](https://www.youtube.com/watch?v=Hr-zOaBGyEA)
