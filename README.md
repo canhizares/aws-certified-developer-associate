@@ -40,3 +40,18 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [Building CI/CD Pipelines with Jenkins on Amazon ECS](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-on-ecs-workshop/public/en/index.html)
 - [ ] [Building and Deploying Containers Using Amazon Elastic Container Service](https://run.qwiklabs.com/focuses/14236?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7572446)
 - [ ] [AWS Fargate under the hood](https://www.youtube.com/watch?v=Hr-zOaBGyEA)
+
+### Step 3.2: Learn about Elastic Kubernetes Service (Amazon EKS)
+
+- [ ] [Amazon Elastic Container Service for Kubernetes (EKS) Primer](https://www.aws.training/Details/eLearning?id=32894)
+- [ ] [EKS Workshop](http://eksworkshop.com/)
+- [ ] [De-mystifying cluster networking for Amazon EKS Worker nodes](https://aws.amazon.com/blogs/containers/de-mystifying-cluster-networking-for-amazon-eks-worker-nodes/)
+
+## Step 4: Learn all about serverless fundamentals
+
+- [ ] [Introduction to Serverless Development](https://www.edx.org/course/aws-developer-building-on-aws-2)
+- [ ] [Getting into a Serverless Mindset](https://www.aws.training/Details/eLearning?id=27198)
+- [ ] [AWS Lambda Foundations](https://www.aws.training/learningobject/wbc?id=27197)
+- [ ] [Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199)
+- [ ] [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196)
+- [ ] [Lambda Getting Started](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
