@@ -13,3 +13,11 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 - [ ] [AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/)
 - [ ] [AWS Security Best Practices](https://aws.amazon.com/blogs/security/tag/best-practices/)
+
+## Step 2: 
+
+- [ ] [Tools to Build on AWS](https://aws.amazon.com/tools/)
+- [ ] [Introduction to AWS Elastic Beanstalk](https://www.aws.training/Details/Video?id=15878)
+- [ ] [Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+- [ ] [AWS Developer: Building on AWS on edX](https://www.edx.org/course/aws-developer-building-on-aws-2)
+
