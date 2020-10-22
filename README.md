@@ -101,33 +101,41 @@ Resource | Type | Done
 
 ## Step 5: Learn how to build and manage Infrastructure as Code
 
-- [ ] [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
-- [ ] [Introduction to AWS CloudFormation](https://www.aws.training/learningobject/video?id=15892)
-- [ ] [Introduction to AWS CloudFormation](https://amazon.qwiklabs.com/focuses/10387?parent=catalog&search_id=6433890)
-- [ ] [Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/11046?parent=catalog&search_id=6433901)
-- [ ] [Launching and Managing a Web Application with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/12954?parent=catalog&search_id=6433924)
-- [ ] [Introduction to AWS CloudFormation Designer](https://amazon.qwiklabs.com/focuses/10940?parent=catalog&search_id=6433896)
-- [ ] [AWS Cloud Development Kit (CDK)](https://cdkworkshop.com/)
-- [ ] [Working with the AWS Cloud Development Kit and AWS Construct Library](https://aws.amazon.com/blogs/developer/working-with-the-aws-cloud-development-kit-and-aws-construct-library/)
+Resource | Type | Done
+-------- | ---- | ---
+[Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) | 
+[Introduction to AWS CloudFormation](https://www.aws.training/learningobject/video?id=15892) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) |
+[Introduction to AWS CloudFormation](https://amazon.qwiklabs.com/focuses/10387?parent=catalog& search_id=6433890) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/11046?parent=catalog&search_id=6433901) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Launching and Managing a Web Application with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/12954?parent=catalog&search_id=6433924) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) |
+[Introduction to AWS CloudFormation Designer](https://amazon.qwiklabs.com/focuses/10940?parent=catalog&search_id=6433896) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[AWS Cloud Development Kit (CDK)](https://cdkworkshop.com/) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
+[Working with the AWS Cloud Development Kit and AWS Construct Library](https://aws.amazon.com/blogs/developer/working-with-the-aws-cloud-development-kit-and-aws-construct-library/) | ![Blog Post](https://img.shields.io/badge/-Blog%20Post-%237057ff?style=plastic)
 
 ## Step 6: Learn how mobile and front-end web developers can quickly and easily build secure and scalable full stack applications
 
-- [ ] [Build web and mobile apps with AWS Amplify](https://docs.amplify.aws/start)
-- [ ] [Build a React Application using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
+Resource | Type | Done
+-------- | ---- | ---
+[Build web and mobile apps with AWS Amplify](https://docs.amplify.aws/start) | ![Tutorial](https://img.shields.io/badge/-Tutorial-%23d876e3?style=plastic) | 
+[Build a React Application using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/) | ![Tutorial](https://img.shields.io/badge/-Tutorial-%23d876e3?style=plastic) |
 
 ## Step 7: Learn about AWS Developer Tools
 
-- [ ] [AWS Development Tools Services Overview](https://www.aws.training/learningobject/video?id=16204)
-- [ ] [Introduction to AWS CodeCommit](https://www.aws.training/Details/Video?id=16347)
-- [ ] [Working with AWS CodeCommit](https://amazon.qwiklabs.com/focuses/10301?parent=catalog)
-- [ ] [Working with AWS CodeCommit on Windows](https://amazon.qwiklabs.com/focuses/11012?parent=catalog)
-- [ ] [Introduction to AWS CodeBuild](https://www.aws.training/Details/Video?id=16508)
-- [ ] [Introduction to CodeDeploy](https://amazon.qwiklabs.com/focuses/10496?parent=catalog)
-- [ ] [Introduction to AWS CodePipeline](https://www.aws.training/Details/Video?id=16441)
-- [ ] [Introduction to AWS CodeStar](https://www.aws.training/learningobject/video?id=16018)
-- [ ] [Introduction to AWS X-Ray](https://www.aws.training/learningobject/video?id=16450)
+Resource | Type | Done
+-------- | ---- | ---
+[AWS Development Tools Services Overview](https://www.aws.training/learningobject/video?id=16204) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+[Introduction to AWS CodeCommit](https://www.aws.training/Details/Video?id=16347) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) |
+[Working with AWS CodeCommit](https://amazon.qwiklabs.com/focuses/10301?parent=catalog) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Working with AWS CodeCommit on Windows](https://amazon.qwiklabs.com/focuses/11012?parent=catalog) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Introduction to AWS CodeBuild](https://www.aws.training/Details/Video?id=16508) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+[Introduction to CodeDeploy](https://amazon.qwiklabs.com/focuses/10496?parent=catalog) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Introduction to AWS CodePipeline](https://www.aws.training/Details/Video?id=16441) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+[Introduction to AWS CodeStar](https://www.aws.training/learningobject/video?id=16018) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+[Introduction to AWS X-Ray](https://www.aws.training/learningobject/video?id=16450) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) |
 
 ## Step 8: Prepare for and take the AWS Certified Developer
 
-- [ ] [Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/Details/Curriculum?id=19185)
-- [ ] Pass the exam :student:
+Resource | Type | Done
+-------- | ---- | ---
+[Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/Details/Curriculum?id=19185) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+Pass the exam :student: |  :confetti_ball:   :confetti_ball: |
