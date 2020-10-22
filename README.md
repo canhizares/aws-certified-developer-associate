@@ -105,7 +105,7 @@ Resource | Type | Done
 -------- | ---- | ---
 [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) | 
 [Introduction to AWS CloudFormation](https://www.aws.training/learningobject/video?id=15892) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) |
-[Introduction to AWS CloudFormation](https://amazon.qwiklabs.com/focuses/10387?parent=catalog& search_id=6433890) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
+[Introduction to AWS CloudFormation](https://amazon.qwiklabs.com/focuses/10387?parent=catalog&search_id=6433890) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
 [Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/11046?parent=catalog&search_id=6433901) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
 [Launching and Managing a Web Application with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/12954?parent=catalog&search_id=6433924) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) |
 [Introduction to AWS CloudFormation Designer](https://amazon.qwiklabs.com/focuses/10940?parent=catalog&search_id=6433896) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
