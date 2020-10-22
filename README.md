@@ -1,6 +1,8 @@
 # AWS Certified Developer - Associate
 
-Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Developer.pdf): Developer which is found at the AWS training path to this certification.
+:eyes: This repo is my roadmap to take the AWS certified exam and it's based on the [AWS Ramp-Up Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Developer.pdf) which is found at AWS Training. There are some steps that I have missed (like classroom training or content more focused on a language instead of the cloud).
+
+:satisfied: If I'm so lucky that someone reads this and wants to suggest or fix something, please, feel free to open an issue or send me an email!
 
 ## Step 1: Dive deeper into AWS Cloud fundamentals, including AWS pricing and cost management
 
