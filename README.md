@@ -68,7 +68,7 @@ Resource | Type | Done
 [Introduction to Serverless Development](https://www.edx.org/course/aws-developer-building-on-aws-2) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
 [Getting into a Serverless Mindset](https://www.aws.training/Details/eLearning?id=27198) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
 [AWS Lambda Foundations](https://www.aws.training/learningobject/wbc?id=27197) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
-[Amazon API Gateway for Serverless Applications](https://www.aws.training/Details /eLearning?id=27199) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
+[Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
 [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) | 
 [Lambda Getting Started](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html) | ![Tutorial](https://img.shields.io/badge/-Tutorial-%23d876e3?style=plastic) |  
 
@@ -76,18 +76,18 @@ Resource | Type | Done
 
 Resource | Type | Done
 -------- | ---- | ---
-Getting Started with AWS Lambda and Serverless Computing - AWS Online Tech Talks](https://www.youtube.com/watch?v=Y9E-jqbd3eI) | ![Video](https://img.shields.io/badge/-Video-%23d73a4a?style=plastic) | 
+[Getting Started with AWS Lambda and Serverless Computing - AWS Online Tech Talks](https://www.youtube.com/watch?v=Y9E-jqbd3eI) | ![Video](https://img.shields.io/badge/-Video-%23d73a4a?style=plastic) | 
 [Implementing Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) |  
 [Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0) | ![Video](https://img.shields.io/badge/-Video-%23d73a4a?style=plastic) | 
 [Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) |
-Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) | 
+[Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) | 
 [Serverless Design with AWS Lambda](https://run.qwiklabs.com/quests/17) | ![Hands-On Lab](https://img.shields.io/badge/-Hands%20On%20Lab-%23e4e669?style=plastic) | 
-[AWS Serverless Wild Rydes Workshops: Web Application, Data Processing, DevOps, Image Processing, and Multi Region on GitHub](https://github.com/aws-samples/aws-serverless- workshops) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
+[AWS Serverless Wild Rydes Workshops: Web Application, Data Processing, DevOps, Image Processing, and Multi Region on GitHub](https://github.com/aws-samples/aws-serverless-workshops) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
 [Architecting Serverless Solutions](https://www.aws.training/Details/eLearning?id=42594) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic) |
 [Innovator Island serverless workshop](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
 [Innovator Island serverless workshop walkthrough](https://www.youtube.com/playlist?list=PLJo-rJlep0EAkkjo7w_RmTV3S27tTmXDg) | ![Video](https://img.shields.io/badge/-Video-%23d73a4a?style=plastic) | 
 [Build and Deploy APIs with a Serverless CI/CD](https://www.aws.training/Details/Video?id=26846) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic)
-[CI/CD for serverless applications](https://cicd.serverlessworkshops.io/) ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
+[CI/CD for serverless applications](https://cicd.serverlessworkshops.io/) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) | 
 [Build a Modern Web Application in your preferred language](https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic) |
 [Modernization Workshops with 3rd Party Integration](https://awsworkshop.io/) | ![Workshop](https://img.shields.io/badge/-Workshop-%23a2eeef?style=plastic)
 [Serverless Application Lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf?did=wp_card&trk=wp_card) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) | 
