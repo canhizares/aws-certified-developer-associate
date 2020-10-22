@@ -94,3 +94,15 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 
 - [ ] [Build web and mobile apps with AWS Amplify](https://docs.amplify.aws/start)
 - [ ] [Build a React Application using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
+
+## Step 7: Learn about AWS Developer Tools
+
+- [ ] [AWS Development Tools Services Overview](https://www.aws.training/learningobject/video?id=16204)
+- [ ] [Introduction to AWS CodeCommit](https://www.aws.training/Details/Video?id=16347)
+- [ ] [Working with AWS CodeCommit](https://amazon.qwiklabs.com/focuses/10301?parent=catalog)
+- [ ] [Working with AWS CodeCommit on Windows](https://amazon.qwiklabs.com/focuses/11012?parent=catalog)
+- [ ] [Introduction to AWS CodeBuild](https://www.aws.training/Details/Video?id=16508)
+- [ ] [Introduction to CodeDeploy](https://amazon.qwiklabs.com/focuses/10496?parent=catalog)
+- [ ] [Introduction to AWS CodePipeline](https://www.aws.training/Details/Video?id=16441)
+- [ ] [Introduction to AWS CodeStar](https://www.aws.training/learningobject/video?id=16018)
+- [ ] [Introduction to AWS X-Ray](https://www.aws.training/learningobject/video?id=16450)
