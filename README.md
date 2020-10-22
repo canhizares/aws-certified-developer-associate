@@ -106,3 +106,8 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [Introduction to AWS CodePipeline](https://www.aws.training/Details/Video?id=16441)
 - [ ] [Introduction to AWS CodeStar](https://www.aws.training/learningobject/video?id=16018)
 - [ ] [Introduction to AWS X-Ray](https://www.aws.training/learningobject/video?id=16450)
+
+## Step 8: Prepare for and take the AWS Certified Developer
+
+- [ ] [Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/Details/Curriculum?id=19185)
+- [ ] Pass the exam :student:
