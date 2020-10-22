@@ -78,3 +78,15 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [Best practices for organizing larger serverless applications](https://aws.amazon.com/es/blogs/compute/best-practices-for-organizing-larger-serverless-applications/)
 - [ ] [Moving to event-driven architectures](https://www.youtube.com/watch?v=h46IquqjF3E&feature=youtu.be)
 - [ ] [Scalable serverless event-driven applications using Amazon SQS & Lambda](https://www.youtube.com/watch?v=2rikdPIFc_Q)
+
+## Step 5: Learn how to build and manage Infrastructure as Code
+
+- [ ] [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
+- [ ] [Introduction to AWS CloudFormation](https://www.aws.training/learningobject/video?id=15892)
+- [ ] [Introduction to AWS CloudFormation](https://amazon.qwiklabs.com/focuses/10387?parent=catalog&search_id=6433890)
+- [ ] [Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/11046?parent=catalog&search_id=6433901)
+- [ ] [Launching and Managing a Web Application with AWS CloudFormation](https://amazon.qwiklabs.com/focuses/12954?parent=catalog&search_id=6433924)
+- [ ] [Introduction to AWS CloudFormation Designer](https://amazon.qwiklabs.com/focuses/10940?parent=catalog&search_id=6433896)
+- [ ] [AWS Cloud Development Kit (CDK)](https://cdkworkshop.com/)
+- [ ] [Working with the AWS Cloud Development Kit and AWS Construct Library](https://aws.amazon.com/blogs/developer/working-with-the-aws-cloud-development-kit-and-aws-construct-library/)
+
