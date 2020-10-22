@@ -90,3 +90,7 @@ Roadmap to prepare the certification exam based on the [AWS Ramp-Up Guide](https
 - [ ] [AWS Cloud Development Kit (CDK)](https://cdkworkshop.com/)
 - [ ] [Working with the AWS Cloud Development Kit and AWS Construct Library](https://aws.amazon.com/blogs/developer/working-with-the-aws-cloud-development-kit-and-aws-construct-library/)
 
+## Step 6: Learn how mobile and front-end web developers can quickly and easily build secure and scalable full stack applications
+
+- [ ] [Build web and mobile apps with AWS Amplify](https://docs.amplify.aws/start)
+- [ ] [Build a React Application using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
